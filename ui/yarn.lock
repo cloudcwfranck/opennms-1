@@ -330,7 +330,12 @@
     "@featherds/styles" "^0.9.6"
     vue "^3.1.0-0"
 
-"@featherds/utils@0.9.6", "@featherds/utils@^0.9.6":
+"@featherds/utils@0.12.40":
+  version "0.12.40"
+  resolved "https://registry.yarnpkg.com/@featherds/utils/-/utils-0.12.40.tgz#817a5c419b4bba74bc24ded9d5fcf0610f2fe920"
+  integrity sha512-4XBq/nC3bfQ9IOySDoNrgpb7WPY43mVjAFwYsxETzfPAGbeDAroW+b7SUJA2iqRcIx6BO72rE2sLUUnBwUFZuA==
+
+"@featherds/utils@^0.9.6":
   version "0.9.6"
   resolved "https://registry.yarnpkg.com/@featherds/utils/-/utils-0.9.6.tgz#1d40f8d2b0f89a3cdf23ac71bc2f1c8ae1887c4f"
   integrity sha512-1h0ofSqMrvNGnhgn8TrTe/s6JDkmxOTFUZXDCJ2A6IVP6sxEIFdtKhr0qkg6fyYpDfGsJBXMQwtApILMYkFfyA==
