@@ -1001,7 +1001,7 @@
                   </goals>
                 </pluginExecutionFilter>
                 <action>
-                  <ignore></ignore>
+                  <ignore/>
                 </action>
               </pluginExecution>
               <pluginExecution>
@@ -1014,7 +1014,7 @@
                   </goals>
                 </pluginExecutionFilter>
                 <action>
-                    <execute></execute>
+                    <execute/>
                 </action>
               </pluginExecution>
               <pluginExecution>
@@ -1255,8 +1255,8 @@
             <phase>validate</phase>
             <configuration>
               <target>
-                <property name="opennms.build.basedir" location="." />
-                <echo message="base directory is ${opennms.build.basedir}" />
+                <property name="opennms.build.basedir" location="."/>
+                <echo message="base directory is ${opennms.build.basedir}"/>
               </target>
             </configuration>
             <goals>
@@ -4136,7 +4136,7 @@
       <dependency>
         <groupId>com.sun.mail</groupId>
         <artifactId>jakarta.mail</artifactId>
-        <version>1.6.7</version>
+        <version>1.6.8</version>
       </dependency>
       <!-- we want to use JPA 2.0. Do not add javax.persistence/persistence-api! -->
       <dependency>
